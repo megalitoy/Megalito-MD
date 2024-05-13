@@ -1,9 +1,9 @@
 # _megalito-multi-device_
-## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
+## _Multi device whatsapp bot created with [@megalitoy](https://github.com/megalitoy)_
   
 <div align="center">
    
-<a href="https://megalito-network.vercel.app/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://Megalito-network.vercel.app/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
 <div>
 <br>
@@ -13,13 +13,13 @@
 <a href="https://github.com/sou6av/deploy-megalito/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
-<a href="https://megalito-network.vercel.app/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://Megalito-network.vercel.app/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 
 ## Deploy to Koyeb ↓
 
-<a href="https://megalito-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://Megalito-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <div>
